@@ -1,3 +1,7 @@
+#Objective is to implement PSO to find the optimal solution of the given function OR Minimizing the function to find its optimal solution
+
+# f(x,y) = (x-3.14)^2 + (y-2.72)^2 + sin(3x+1.41) + sin(4y-1.73)
+
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
